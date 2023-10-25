@@ -23,7 +23,7 @@ namespace Laboratorio_9
                         Registrar_Venta();
                         break;
                     case "2":
-                        Console.WriteLine("Registrar devolución");
+                        Console.WriteLine("Registraar devolución");
                         Registrar_devolucion();
                         break;
                     case "3":
